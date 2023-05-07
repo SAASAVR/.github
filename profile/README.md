@@ -12,6 +12,3 @@ A brief description
 
 
 ---
-
-Copyright © 2023 My Name
-All rights reserved.
