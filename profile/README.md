@@ -1,6 +1,6 @@
-# SAASAVR Main Page
+# SAASAVR Main Page Ver 1.00
 Welcome to Sensor Activated Acoustic Signal Aquisition, Visualisation, Recognition. [Youtube video](https://www.youtube.com/watch?v=FkJ5tvA459M)
-
+This project was made by [Darius Fang]() [Landyn Pugh]() [Marco Romero]()
 ## Who we are
 Equipment used for acoustic research and analysis is often very expensive and complex. This is the problem that our Sensor activated acoustic Signal Acquisition, Visualization and Recognition Device, or SAAS, is attempting to solve. 
 
