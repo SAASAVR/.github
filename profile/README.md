@@ -11,8 +11,9 @@ A brief description.
 From this proposal, we are able to set up a few main goals for ourselves. The device must record audio, stream live audio data to a user interface, visualize audio data on that user interface, save audio to a database, analyze audio using neural networks and allow for user controlled recording. 
 ### Component Documentation:
 - [Firmware](https://github.com/SAASAVR/Firmware/blob/main/README.md)
-- [Software]()
 - [Hardware](https://docs.google.com/document/d/1qsRrO2yIlogNYCMet9N72-EUuf6XB-Ce7WJqF0msMxc/edit)
+- [Web Application]()
+- [ML Analysis]()
 
 ## Demo
 ![image](https://github.com/SAASAVR/.github/blob/main/ResultPhotos/GLAMOUR%20%E2%9C%A8%E2%9C%A8/20230406_095052.jpg)
