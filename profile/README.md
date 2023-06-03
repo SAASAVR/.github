@@ -9,7 +9,10 @@ The proposal for this project, as given to us by our client, dr. Huda of Industr
 A brief description.
 
 From this proposal, we are able to set up a few main goals for ourselves. The device must record audio, stream live audio data to a user interface, visualize audio data on that user interface, save audio to a database, analyze audio using neural networks and allow for user controlled recording. 
-
+### Component Documentation:
+- [Firmware]()
+- [Software]()
+- [Hardware]()
 
 ## Demo
 ![image](https://github.com/SAASAVR/.github/blob/main/ResultPhotos/GLAMOUR%20%E2%9C%A8%E2%9C%A8/20230406_095052.jpg)
